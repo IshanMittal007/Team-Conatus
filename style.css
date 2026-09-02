@@ -91,9 +91,9 @@ html {
 
 /* Layout */
 .container {
-  max-width: 2000px;
+  max-width: 850px;
   margin: auto;
-  padding: 0 15rem;
+  padding: 0 1.5rem;
 }
 
 .section {
